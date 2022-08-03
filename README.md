@@ -1,5 +1,7 @@
 # Whatsapp Client API
 
+*Base Code from https://github.com/ndalu-id/baileys-api*
+
 Full Feature Frontend : https://wa360.co
 
     DEPENDENCIES : {
